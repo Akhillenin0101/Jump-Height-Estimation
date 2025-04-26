@@ -33,6 +33,7 @@ Users can either select a **live camera feed** or **upload a video file** for re
 4. **Calculate Jump Height** based on entered real-world height ➔
 5. **Display Stats Live**
 
+## User InterFace
 ![gui](window.png) 
 
 ---
