@@ -46,5 +46,6 @@ Users can either select a **live camera feed** or **upload a video file** for re
    pip install -r requirements.txt
    python app.py
 
+[![Watch the video](thumbnail.png)](https://www.youtube.com/watch?v=vtItXyBApu0)
 
 
