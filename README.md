@@ -46,5 +46,5 @@ Users can either select a **live camera feed** or **upload a video file** for re
    pip install -r requirements.txt
    python app.py
 
-<video src="https://github.com/your-username/your-repo/blob/main/working_video.mp4" controls width="600"></video>
+
 
