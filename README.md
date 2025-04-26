@@ -46,3 +46,7 @@ Users can either select a **live camera feed** or **upload a video file** for re
    pip install -r requirements.txt
    python app.py
 
+<video width="600" controls>
+  <source src="working_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
