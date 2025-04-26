@@ -27,10 +27,10 @@ Users can either select a **live camera feed** or **upload a video file** for re
 
 ##  How It Works
 
-1. **Capture Video** ➔
-2. **Detect Pose Landmarks** ➔
-3. **Find Hip Midpoint Movement** ➔
-4. **Calculate Jump Height** based on entered real-world height ➔
+1. **Capture Video** 
+2. **Detect Pose Landmarks** 
+3. **Find Hip Midpoint Movement** 
+4. **Calculate Jump Height** based on entered real-world height 
 5. **Display Stats Live**
 
 ## User InterFace
