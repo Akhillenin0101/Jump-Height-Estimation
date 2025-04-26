@@ -43,3 +43,6 @@ Users can either select a **live camera feed** or **upload a video file** for re
    ```bash
    git clone https://github.com/your-username/jump-height-estimation.git
    cd jump-height-estimation
+   pip install -r requirements.txt
+   python app.py
+
