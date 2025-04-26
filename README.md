@@ -21,7 +21,7 @@ Users can either select a **live camera feed** or **upload a video file** for re
 -  Displays **Max, Min, Average Jump Heights** dynamically.
 -  User-friendly **Tkinter GUI** interface.
 -  Smooth performance using **Threading** to avoid freezing.
--  Clean UI with **blue-white color theme**.
+  
 
 ---
 
