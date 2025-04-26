@@ -41,7 +41,7 @@ Users can either select a **live camera feed** or **upload a video file** for re
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/jump-height-estimation.git
+   git clone https://github.com/Akhillenin0101/Jump-Height-Estimation.git
    cd jump-height-estimation
    pip install -r requirements.txt
    python app.py
